@@ -7,7 +7,7 @@ I enjoy creating software and exploring new ideas through code.
 ```java
 public class Me {
     String name = "Hian Ferreira";
-    String workArea = "Backend Developer";
+    String workArea = "Fullstack Developer";
     String email = "hian.ferreira.b.lopes@gmail.com";
 }
 ```
